@@ -1,5 +1,5 @@
 
-ZF2-Prime - firs ZF2 application
+ZF2-Prime - first ZF2 application
 ================================
 
 
